@@ -6,7 +6,7 @@ import codecs
 import telebot
 import os
 
-API_TOKEN = '1153858227:AAFscj1frq1msM384J1ltxj8F1djMN9WGdg' # Token of BOT
+API_TOKEN = '' # Token of BOT
 
 bot = telebot.TeleBot(API_TOKEN)
 
